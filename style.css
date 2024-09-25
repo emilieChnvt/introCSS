@@ -1,0 +1,18 @@
+html, body{
+    color:black;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #636bcd;
+}
+
+a{
+    margin-right: 12px;
+    text-decoration: none;
+    color: black;
+
+}
