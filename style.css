@@ -1,7 +1,9 @@
 html, body{
     color:black;
 }
-
+.background{
+    
+}
 
 .navbar{
     display: flex;
@@ -15,4 +17,14 @@ a{
     text-decoration: none;
     color: black;
 
+}
+.punchline{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+p{
+    font-size: 40px;
 }
