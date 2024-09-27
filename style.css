@@ -14,7 +14,15 @@ background-image: url("img.png");
     background-color: #636bcd;
     height: 80px;
 }
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+li{
+    list-style: none;
+}
 a{
     margin-right: 12px;
     text-decoration: none;
